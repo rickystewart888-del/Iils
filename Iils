@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="base:app_id" content="69f2601405020c0316bbbfe9" />
+    <title>IILS | Sovereign Node</title>
+    <style>
+        body { background: #000; color: #00ffcc; font-family: monospace; text-align: center; padding-top: 20vh; }
+        .box { border: 1px solid #00ffcc; display: inline-block; padding: 20px; box-shadow: 0 0 15px #00ffcc; }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <h1>IILS</h1>
+        <p>Institute for Informational Life Science</p>
+        <p>Sovereignty Verification: ACTIVE</p>
+    </div>
+</body>
+</html>
